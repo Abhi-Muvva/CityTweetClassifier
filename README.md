@@ -9,7 +9,9 @@ This program is a Naive Bayes classifier for classifying the city from which a g
 
 ## Installation
 Clone the repository: git clone https://github.com/Abhi-Muvva/CityTweetClassifier.git
+
 Navigate to the project directory: cd your-project
+
 Install required packages: pip install pandas numpy nltk
 
 ## Usage
